@@ -1,0 +1,6 @@
+*.pdsbak
+*.workspace
+project/Listings
+project/Objects
+project/c51.uvgui.gaonian
+project/c51.uvopt
